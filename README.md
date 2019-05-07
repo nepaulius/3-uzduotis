@@ -40,3 +40,8 @@ Sukurta base klasė **Žmogas**, kurios derived klasė **Studentai**. Iš **Stud
 ![](https://user-images.githubusercontent.com/45967745/57059413-e64dfc00-6cbd-11e9-9ec5-00bb2a333050.png)
 ![](https://user-images.githubusercontent.com/45967745/57061035-2fa14a00-6cc4-11e9-86cf-1908f4a980c2.png)
 ![](https://user-images.githubusercontent.com/45967745/57061080-52cbf980-6cc4-11e9-8f3c-ab7072ab0337.png)
+____
+* **v2.0**
+Panaudojus Doxygen wizard susikūrė doxygen katalogas (vienas iš html failų):
+
+![](https://user-images.githubusercontent.com/45967745/57312504-5d3c2800-70f6-11e9-8cea-eb38fa11a8a6.JPG)
